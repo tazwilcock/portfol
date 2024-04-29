@@ -413,7 +413,7 @@ main #one p {
 }
 main #two {
   min-height: 100vh;
-  background-color: #648fb3;
+  background-color: #3b566c;
   color: #ffffff;
 }
 main #two img {
@@ -425,12 +425,12 @@ main #two img {
 }
 main #three {
   min-height: 100vh;
-  background-color: #1c9774;
+  background-color: #125e48;
   color: #f6fafd;
 }
 main #three a {
   background-color: aquamarine;
-  color: #1c9774;
+  color: #020b09;
 }
 main #three p,
 main #three h2 {
@@ -438,7 +438,7 @@ main #three h2 {
 }
 main #four {
   min-height: 100vh;
-  background-color: #08a8a8;
+  background-color: #097676;
   color: #ffffff;
 }
 main #four h2 {
@@ -450,7 +450,7 @@ main #four .singleCard > h2 {
 }
 main #five {
   min-height: 100vh;
-  background-color: #0da181;
+  background-color: #0d8168;
   color: #f6fafd;
 }
 main #five h2 {
