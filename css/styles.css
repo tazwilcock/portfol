@@ -456,6 +456,9 @@ main #five {
 main #five h2 {
   padding-bottom: 20px;
 }
+main #five .allCards img {
+  padding: 2px 8px;
+}
 main #five .allCards .singleCard h3 {
   background-color: #86c5ef;
   color: #44516e;
@@ -571,8 +574,5 @@ footer p {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 5px;
-  }
-  #five .allCards img {
-    padding: 2px 8px;
   }
 }

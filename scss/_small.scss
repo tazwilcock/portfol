@@ -145,6 +145,10 @@ main {
       padding-bottom: 20px;
     }
     .allCards {
+      img {
+        padding: 2px 8px;
+      }
+
       .singleCard {
         h3 {
           background-color: #86c5ef;
@@ -161,6 +165,7 @@ main {
       }
     }
   }
+
   #six {
     min-height: 100vh;
     background-color: $colorSix;
